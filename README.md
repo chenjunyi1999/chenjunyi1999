@@ -8,9 +8,13 @@
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Natural language processing** domains.
 - 🎯 Goal (2021): **Participate** in **Data Science and Machine Learning** Competitions and to create **NLP Model "Early detection of Mental illness"**.
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenjunyi1999)
 
-![Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenjunyi1999)
+<div align="center">
+  
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=chenjunyi1999&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="chen's github stats" /></a> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenjunyi1999&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+  
+</div>
 
 <br />
 <br />
