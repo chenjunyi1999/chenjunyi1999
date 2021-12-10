@@ -2,10 +2,10 @@
 <img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="200">
 <hr/>
 
-- 🎖  I am a rookie in CS. I am a student in City now.
+- 🎖  I am a rookie in CS. I am a student in CityU now.
 - 🐍  I love **Python**/C++/JAVA.
 - 💻  **Machine Learning** and **Natural Language Process** !!!!
-- 🎯 Goal (2021): **a girl friend**.
+- 🎯 Goal (2022): a girl friend and 6000 mmr in Dota2.
 
 
 <div align="center">
