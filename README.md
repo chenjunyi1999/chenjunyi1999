@@ -2,11 +2,10 @@
 <img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="200">
 <hr/>
 
-- 🎖  I am a rookie.
-- ✍ I write beginner-friendly articles on data analysis and machine learning. 
-- 💻 I'm looking for an **experience** in field of **Natural language processing**.
-- 🤝🏻 I'm open for collaborations in **Data Science** and **Natural language processing** domains.
-- 🎯 Goal (2021): **Participate** in **Data Science and Machine Learning** Competitions and to create **NLP Model "Early detection of Mental illness"**.
+- 🎖  I am a rookie in CS. I am a student in City now.
+- 🐍  I love **Python**/C++/JAVA.
+- 💻  **Machine Learning** and **Natural Language Process** !!!!
+- 🎯 Goal (2021): **a girl friend**.
 
 
 <div align="center">
