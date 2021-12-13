@@ -3,9 +3,9 @@
 <hr/>
 
 - 🤖️  I am a rookie. I am a student in CityU now.
-- 🐍  I love **Python**.
+- 👶  Use Python/Java/C++/Javascript.
 - 💻  **Machine Learning** and **Natural Language Process** Enthusiast !!!!
-- 🎯 Goal (2022): 6000 mmr in Dota2.
+- 🎯 Goal (2022): 6000 mmr in Dota2 and 2000 mmr in leetcode.
 
 
 <div align="center">
