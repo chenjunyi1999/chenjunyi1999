@@ -2,10 +2,10 @@
 <img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="200">
 <hr/>
 
-- 🤖️  I am a rookie. I am a student in CityU now.
+- 🤖️  Student.
 - 👶  Use Python/Java/C++/Javascript.
-- 💻  **Machine Learning** and **Natural Language Process** Enthusiast !!!!
-- 🎯 Goal (2022): 6000 mmr in Dota2 and 2000 mmr in leetcode.
+- 💻  Learning **Machine Learning** and **Natural Language Process** now!!!!
+- 🎯 Goal (2022): make big money💰.
 
 
 <div align="center">
