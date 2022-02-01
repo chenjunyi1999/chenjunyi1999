@@ -2,7 +2,7 @@
 <img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="200">
 <hr/>
 
-- 🤖️  Student.
+- 🤖️  CS Student/（Artist🎨）. 
 - 👶  Use Python/Java/C++/Javascript.
 - 💻  Learning **Machine Learning** and **Natural Language Process** now!!!!
 - 🎯 Goal (2022): make big money💰.
