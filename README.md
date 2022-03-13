@@ -3,7 +3,7 @@
 <hr/>
 
 - 🤖️  CS Student/（Artist🎨）. 
-- 👶  Use Python >> C++ > Java >>Javascript. (familiar --> unfamiliar)
+- 👶  Use Python/Java/C++. 
 - 💻  Learning **Machine Learning** and **Natural Language Process** now!!!!
 - 🎯 Goal (2022): make big money💰.
 
