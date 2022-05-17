@@ -2,9 +2,9 @@
 <img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="200">
 <hr/>
 
-- 🤖️  CS Student/ Artist🎨 / Amateur Astronomer. 
+- 🤖️  CS Student/ 🎨 Artist 
 - 👶  Use Python/Java/C++. 
-- 💻  Learning **Machine Learning** now!!!!
+- 💻  Learning **Machine Learning** now !!!!
 - 🎯 Goal (2022): make big money💰.
 
 
