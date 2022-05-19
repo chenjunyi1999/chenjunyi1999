@@ -1,9 +1,13 @@
 ## Hi, I am Chen Junyi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="200">
 <hr/>
 
-- 🤖️  CS Student/ 🎨 Artist 
-- 👶  Use Python/Java/C++. 
+|<img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" />|<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />|<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+| ------------- | ------------- |------------- |
+
+
+
+- 🤖️  **CS Student**/ 🎨 Artist 🎸 
+- 👶  Use **Python**/**Java**/**C++**. 
 - 💻  Learning **Machine Learning** now !!!!
 - 🎯 Goal (2022): make big money💰.
 
